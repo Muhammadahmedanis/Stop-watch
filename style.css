@@ -1,0 +1,10 @@
+div p{
+    font-size: 45px;
+    font-weight: 600;
+    display: inline-flex;
+    /* display: flex;
+    flex-direction: column; */
+}
+.second{
+    font-size: 25px;
+}
